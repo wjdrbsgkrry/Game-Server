@@ -11,7 +11,7 @@ const config = {
   },
   packet: {
     totalLength: TOTAL_LENGTH,
-    packetTypeLength: PACKET_TYPE_LENGTH,
+    typeLength: PACKET_TYPE_LENGTH,
   },
 };
 
